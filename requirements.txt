@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+sqlalchemy
+googletrans-python
+pdfminer.six
+lxml
